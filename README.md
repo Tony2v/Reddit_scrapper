@@ -1,5 +1,5 @@
-Reddit_scrapper
-===============
+Reddit images scrapper
+======================
 
 **Before usage** make sure to paste your credentials in `reddit_scrapper.py` file, as here:
 ```
